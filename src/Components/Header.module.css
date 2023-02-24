@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 2rem;
+    background-color: black;
+    height: 5rem;
+    color: white;
+
+}
+
+.leftMenu {
+
+}
+
+.icon{
+    
+}
+
+.rightMenu {
+
+}
+
